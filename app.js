@@ -1,3 +1,3 @@
 {
-   "Hello  Welcome to devOps master"
+   "Hello  Welcome to jenkins trigger CI plug in with Github"
  }
